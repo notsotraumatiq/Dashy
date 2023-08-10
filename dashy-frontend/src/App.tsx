@@ -2,6 +2,7 @@ import "./App.css";
 
 function App() {
   return (
+    // wasnt able to do 30% and 70% for the two containers
     <div className="flex w-screen h-screen justify-between">
       <div className=" bg-slate-600 w-64">
         <div className="logo mt-6">
